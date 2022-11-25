@@ -11,4 +11,4 @@ The services deployed through a docker-compose.yaml are:
 
 The topic name is "example-topic". 
 
-The information about kafka and how to build the application is on the file "Apache Kafka.pdf"
+
